@@ -1,0 +1,42 @@
+.title {
+    padding-left: 8rem;
+    padding-top: 3rem;
+    padding-right: 8rem;
+}
+
+.ul{
+    margin-left: -2rem;
+    margin-top:2.3rem;
+}
+
+.ul li{
+    display :inline;
+    padding-right: 1rem;
+    cursor:pointer
+
+}
+
+.ul li:hover{
+    color:blue;
+
+}
+
+.act {
+    color:blue
+}
+
+.travelcard {
+    /* width:20rem; */
+    margin-top:1rem;
+}
+
+.travelimgcontainer {
+    /* height:150px; */
+    overflow: hidden;
+}
+
+.travelimg {
+    height:200px;
+    object-fit:cover;
+    object-position:  0px -20px;
+}

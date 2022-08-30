@@ -1,0 +1,14 @@
+.block {
+    padding-left:10px;
+    padding-top:10px;
+    
+}
+
+.button {
+    padding-left: 5px;
+}
+
+.deletediv {
+    display: inline-block;
+    padding-left : 3px;
+}

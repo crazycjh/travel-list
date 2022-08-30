@@ -1,0 +1,11 @@
+.appflex {
+  display:flex;
+  
+  padding-bottom:10px;
+
+}
+
+.gmapconfig {
+  width : 60%;
+  height:100px;
+}

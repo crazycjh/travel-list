@@ -1,0 +1,39 @@
+.travelcard {
+    /* width:20rem; */
+    margin-top:1rem;
+}
+
+.travelimgcontainer {
+    /* height:150px; */
+    overflow: hidden;
+}
+
+.travelimg {
+    height:200px;
+    object-fit:cover;
+    object-position:  0px -20px;
+}
+
+.title {
+    margin-top:-1rem;
+}
+
+.hrconfig {
+    margin-top: 0rem;
+}
+
+.titlendate {
+    /* padding-left: 2rem; */
+    font-size: 0.9rem;
+}
+
+.cityname {
+    text-align:right;
+    font-size:0.7rem;
+    
+}
+
+.textfield{
+    background-color: rgb(222, 222, 222);
+    padding-bottom: 0.3rem;
+}

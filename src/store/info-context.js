@@ -1,0 +1,3 @@
+const InfoContext = React.createContext(
+    
+)
