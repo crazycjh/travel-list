@@ -1,7 +1,8 @@
 {
-  "name": "travllist",
+  "name": "travel-list",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://crazycjh.github.io/travel-list",
   "dependencies": {
     "@react-google-maps/api": "^2.12.1",
     "@testing-library/jest-dom": "^5.16.4",
